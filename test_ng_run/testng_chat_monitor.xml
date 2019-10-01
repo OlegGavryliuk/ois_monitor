@@ -1,0 +1,10 @@
+<suite name="chat_monitor" parallel="tests" thread-count="5">
+
+    <test name="онітор чату">
+        <classes>
+            <class name="chat_ria_com.tests.ChatMonitorTest"></class>
+        </classes>
+    </test>
+
+
+</suite>
